@@ -1,0 +1,24 @@
+{
+  "name": "nk-utils",
+  "version": "0.1.0",
+  "description": "node.js normal utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearking/nk-utils.git"
+  },
+  "keywords": [
+    "node.js",
+    "utils",
+    "javascript"
+  ],
+  "author": "Tony.Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nearking/nk-utils/issues"
+  },
+  "homepage": "https://github.com/nearking/nk-utils#readme"
+}
